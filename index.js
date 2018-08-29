@@ -25,7 +25,6 @@ function nowServing(deliLine) {
 
 //currentLine(line)
 
-let line = [];
 
 function currentLine(line) {
 let newLine = [];
